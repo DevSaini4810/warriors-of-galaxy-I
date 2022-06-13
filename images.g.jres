@@ -1,0 +1,27 @@
+{
+    "image3": {
+        "data": "hwQQABAAAAAAAABQBQAAAAAAAFAFAAAAAAAAUAUAAAAAEBFRlQkAAAAAEVGVCQAAAAARUZUJAAAAABBRlVVVVQAAABGZVVUFAAAAEJlVVQAAAAAAmVUFAAAAAACZVQUAAAAAAJlVAAAAAAAAmVUAAAAAAACZCQAAAAAAAJkJAAAAAAAAkAkAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Protagonist"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8PAAAAAAAAXw8AAAAAAABfDwAAAAAAAF8PAAAAAAAAXw8AAAAAAP9f/w8AAAAAn1mZDwAAAABfVVUPAAAAAJ9VlQ8AAAAA/1n5DwAAAADwX/8AAAAAAACfDwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Projectile"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAIgAAAAAAACAiAAAAAAAAICIAAAAAAAAgIgAAAAAAACByAAAAAAAAIHJ3AAAAAAAgcncHAAAAACByd3cAAAAARHJ3dwAAAABEcnd3BwAAd0Ryd3d3AHB3RCIAAAAAd3dEIgAAAHB3d0QiAAAAAAAARAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spaceship prototype 01"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAA//////////8REZFZmREREf8REVERERH/AB+RWZkR8QAA8FFVVREPAAAAn1mZ8QAAAACfWZkPAAAAAJ9ZmQ8AAAAAn1mZDwAAAABfVVUPAAAAAJ9ZmQ8AAAAA8Fn5AAAAAADwWfkAAAAAAACfDwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Nuke"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
